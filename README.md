@@ -18,7 +18,7 @@ This web application provides a platform for storing and sharing multiple-choice
 
 ## Technologies
 * Java SE 11
-* Spring Boot 2.4.2
+* Spring Boot 2.4.10
   - Spring Boot Starter
   - Spring Boot Starter Web
   - Spring Boot Starter Data JPA
@@ -26,4 +26,4 @@ This web application provides a platform for storing and sharing multiple-choice
   - Spring Boot Starter Validation
   - Spring Boot Starter Actuator
 * H2 Database Engine 1.4.200
-* Gradle 6.7.1
+* Maven 3.6.3
